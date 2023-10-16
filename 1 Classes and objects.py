@@ -13,7 +13,8 @@ class Person:
 
 print(Person)
 
-
+# creating instances
 p1 = Person()
 print(p1.a)
 print(type(p1))
+
